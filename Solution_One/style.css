@@ -1,0 +1,33 @@
+h1,p
+{
+    margin:0px;
+}
+.card
+{
+    background-color: black;
+    color:white;
+} 
+h1, p
+{
+    padding:20px;
+}
+a
+{
+    color:yellow;
+}
+span
+{
+    font-weight: bolder;
+}
+.links > a
+{
+    padding-right: 5px;
+}
+a:hover
+{
+    color:aquamarine;
+}
+a:focus
+{
+    color:red;
+}
